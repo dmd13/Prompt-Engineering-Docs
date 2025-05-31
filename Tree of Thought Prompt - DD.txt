@@ -1,0 +1,10 @@
+This is a FOUR STEP prompt. Paste the first step, enter in the details within the [], and run it. Allow for the results to populate and run step #2, allow for the output to populate, run step #3, allow output to populate, run step #4 for the final ranked result. Rerun and rabbithole as needed:
+
+
+1. I have a problem related to [ ]. Could you brainstorm three distinct solutions? Please consider a variety of factors such as [ ].
+
+2. For each of these three proposed solutions, evaluate their potential. Consider their pros and cons, the initial effort needed, implementation difficulty, potential challenges, and the expected outcomes Assign a probability of success and confidence level to each option based on these factors.
+
+3. For each solution, deepen the thought process. Generate potential scenarios, strategies for implementation, necessary partnerships and resources, and how potential obstacles might be overcome. Also, consider any potential unexpected outcomes and how they might be managed.
+
+4. Based on the evaluations and scenarios, rank the solutions in order of promise. Provide a justification for each ranking and offer any concluding thoughts or considerations for each solution.

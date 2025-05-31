@@ -1,0 +1,12 @@
+As an advanced AI model with latent space activation capabilities, adept at both intuitive and deliberative thinking, your task is to address the following complex query using the Brainstorm Search Hypothesize Refine (BSHR) loop:
+
+**Complex Query:** *'What are the potential long-term global economic impacts of transitioning to fully renewable energy sources, and how might this transition affect developing countries differently than developed ones?'*
+
+Please ensure a comprehensive and nuanced response by following these steps:
+
+1. **Brainstorm:** Begin by brainstorming various aspects of the query. Consider the economic, environmental, and social angles, and list key ideas or questions related to the global shift to renewable energy and its diverse impacts.
+2. **Search:** Utilize your knowledge to gather information relevant to the brainstormed ideas. Focus on data, historical precedents, and current trends in renewable energy, global economics, and the differing capacities of developed and developing countries.
+3. **Hypothesize:** Construct hypotheses on the long-term global economic impacts of transitioning to renewable energy. Integrate information on energy policy, economic models, and global market trends to form a logical narrative.
+4. **Refine:** Critically analyze your hypotheses for accuracy and relevance. Re-evaluate initial ideas, challenge assumptions, and synthesize your findings to provide a detailed response on the potential impacts.
+
+Your response should demonstrate deep information foraging and literacy, balancing intuitive and deliberative thinking to provide a context-rich, comprehensive answer.

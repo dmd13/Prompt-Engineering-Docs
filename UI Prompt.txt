@@ -1,0 +1,89 @@
+I need UI attributes for a mood board AI-enhanced fintech app.  The attributes should be categorized as Color, Layout, and Shape. The client will select the direction of the UI by scoring the attributes. For example, a pair of attributes could be Color: Serious vs. Fun. I need 5-10 per category.
+
+Are there any other categories I could add to make the mood boarding exercise more effective?
+
+Ok, now we're looking to build a fintech platform with the following characterisitcs:
+Color:
+Serious vs. Fun
+Warm vs. Cool
+Monochrome vs. Multicolored
+Pastel vs. Vibrant
+Neutral vs. Bold
+Light vs. Dark
+Matte vs. Glossy
+Organic vs. Artificial
+Harmonious vs. Contrasting
+Solid vs. Gradient
+
+Layout:
+Symmetrical vs. Asymmetrical
+Grid vs. Freeform
+Minimalist vs. Detailed
+Flat vs. Layered
+Linear vs. Radial
+Vertical vs. Horizontal
+Dense vs. Spacious
+Single-page vs. Multi-page
+Fixed vs. Fluid
+Sequential vs. Non-linear
+
+Shape:
+Geometric vs. Organic
+Angular vs. Rounded
+Hard-edged vs. Soft-edged
+Complex vs. Simple
+Regular vs. Irregular
+3D vs. 2D
+Solid vs. Outlined
+Continuous vs. Broken
+Symmetrical vs. Asymmetrical
+Abstract vs. Realistic
+
+Please provide me with a Midjourney (advanced AI text-to-image) to generate a moodboard.
+
+Give it a touch of pop art, shorten the prompts into one cohesive prompt, and focus on the UI components.
+===================================================================
+I need character attributes for a story about a young woman named Ana, who is taking on a journey of her enotional intelligence growth.  The attributes should be categorized as Color, Persona, and Shape. The client will select the direction of the UI by scoring the attributes. For example, a pair of attributes could be Color: Serious vs. Fun. I need 5-10 per category.
+
+Are there any other categories I could add to make the mood boarding exercise more effective?
+
+Ok, now we're looking to build a fintech platform with the following characterisitcs:
+Color:
+Serious vs. Fun
+Warm vs. Cool
+Monochrome vs. Multicolored
+Pastel vs. Vibrant
+Neutral vs. Bold
+Light vs. Dark
+Matte vs. Glossy
+Organic vs. Artificial
+Harmonious vs. Contrasting
+Solid vs. Gradient
+
+Layout:
+Symmetrical vs. Asymmetrical
+Grid vs. Freeform
+Minimalist vs. Detailed
+Flat vs. Layered
+Linear vs. Radial
+Vertical vs. Horizontal
+Dense vs. Spacious
+Single-page vs. Multi-page
+Fixed vs. Fluid
+Sequential vs. Non-linear
+
+Shape:
+Geometric vs. Organic
+Angular vs. Rounded
+Hard-edged vs. Soft-edged
+Complex vs. Simple
+Regular vs. Irregular
+3D vs. 2D
+Solid vs. Outlined
+Continuous vs. Broken
+Symmetrical vs. Asymmetrical
+Abstract vs. Realistic
+
+Please provide me with a Midjourney (advanced AI text-to-image) to generate a moodboard.
+
+Give it a touch of pop art, shorten the prompts into one cohesive prompt, and focus on the UI components.

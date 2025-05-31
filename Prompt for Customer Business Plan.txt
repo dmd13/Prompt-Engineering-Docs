@@ -1,0 +1,63 @@
+Business Name:
+
+Business Type:
+
+Business Purpose:
+
+Business Plan:  (purpose in action)
+Business Model/Type:
+
+Business Website:
+Website Main Content:
+
+Business Customer Base:  
+
+I’m looking to reach out to a [business type] in my local area who [business purpose], so I think it may be a good launch pad to reach out to [business name] to see if they may be interested in integrating chatbots and AI automation services in [their business plan], and to see if they can basically leverage my services as a {scalable option} for their own [business model/type].
+Here are some services that this business offers through their website (WEBSITE URL HERE):
+
+<business_info>
+
+PASTE BUSINESS RELATED INFO HERE
+
+</business_info>
+
+Now that you understand what this business entails, I’d like you to help me write a full business plan on how I could integrate the skill areas we delved into earlier:
+AI Training, Internal and External Chatbots, Content Generation Systems (email copy, SEO, etc.), and AI-Enhanced API Flows with their [business type] to promote my Riverbend AI business. Here is a quick reminder as to what those services entail:
+
+**AI Training:**
+Software: ChatGPT, Microsoft Teams, Microsoft Office 365, Replit.
+Basic Skills: Understanding of AI concepts, presentation skills.
+Proprietary Skills: Curriculum development, direct AI project execution.
+Use Cases: Training a marketing team to utilize AI for customer segmentation. Teaching developers to integrate AI models into software.
+Implementation Plan: Needs assessment, curriculum development, scheduling sessions, feedback collection, and refinement.
+Time: 3-5 days.
+
+**Internal and External Chatbots:**
+Software: BotPress, Stack AI, Flowise AI.
+Basic Skills: Understanding of chat flows, basic programming.
+Proprietary Skills: Custom bot development, intent recognition.
+Use Cases: An HR bot answering employee questions. A customer service bot managing common inquiries.
+Implementation Plan: Needs analysis, bot design, integration, testing, deployment, feedback cycle.
+Time: 10-18 days.
+
+**Content Generation Systems:**
+Software:
+1.) LLMs - OpenAi (GPT-4o, o1, o3, Deep Research) Anthropic (Claude Opus, Sonnet 3.7, Haiku), Google (Gemini, Deep Reseach, NotebookLM, AI Studio), Grok, Groq, Llama, DeepSeek, Perplexity, etc.
+2.) Image generators (Midjourey, Leonardo, Ideogram, GPT-4o, ImaGen3, Dall-e3, Magnific, Flux)
+3.) Video Generators (Runway, Kling, Pika Labs, Luma, Krea)
+4.) IDEs (Cursor, Windsurf, Bolt, Lovable, Replit, VS Code)
+Basic Skills: Understanding content needs, basic AI concepts.
+Proprietary Skills: Fine-tuning content models, content strategy.
+Use Cases: Blog post generation for a tech company. Social media post scheduling and creation for a fashion brand.
+Implementation Plan: Define content strategy, model training or integration, content generation, review, publishing.
+Time: 8-14 days.
+
+**AI-Enhanced API Flows:**
+Software: Zapier, AWS , Make, GPTs
+Basic Skills: Understanding of APIs, basic coding.
+Proprietary Skills: Advanced system integration, workflow optimization.
+Use Cases: Automating invoice data entry into an ERP system. Integrating CRM and marketing tools to auto-segment customers.
+Implementation Plan: Define needs, design workflow, integrate APIs, test, deploy, monitor.
+Time: 10-16 days.
+
+Build this business plan in a persuasive manner that embodies the ethos, pathos, and logos *(Logos appeal to the audience's reason, building up logical arguments. Ethos appeals to the speaker's status or authority, making the audience more likely to trust them. Pathos appeals to the emotions, trying to make the audience feel angry or sympathetic, for example.)* of Riverbend AI Consulting. Function as a professional business plan writer that appeals to [business type] with the target audience being [business’s customer base], and [business owner], enthusiastic about teaching and helping others with new AI related services.  Don't mention Ethos Pathos Logos in the plan but write it in a way that truly encompasses what Riverbend AI can bring to this business and in both standard and unique manners. Outline initial discussions, strategy, and deployment in the plan, not necessarily stated outright like that, but in such a manner that there is clear thought put into how this business integration and partnership may work.

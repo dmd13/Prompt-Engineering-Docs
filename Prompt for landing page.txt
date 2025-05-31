@@ -1,0 +1,58 @@
+**Objective:** Create the structure and content for a straightforward, clean, and professional landing page for "Riverbend AI", an AI consultancy based in Gold Beach, OR, focused on helping individuals and businesses learn AI concepts and tools effectively by tailoring the approach to their unique learning style.
+
+**Target Audience:** Individuals, small business owners, or professionals feeling overwhelmed by AI, looking for a clear path to understanding and applying it practically.
+
+**Key Selling Proposition:** Riverbend AI makes AI learning *stick* by personalizing the education to match the user's specific learning style (e.g., visual, auditory, reading/writing, kinesthetic/hands-on).
+
+**Visual Style & Branding:**
+1.  **Logo:** Prominently feature the provided Riverbend AI logo (green hills, white river path, blue text) in the header/hero section, using (https://riverbend-ai.s3.us-west-2.amazonaws.com/brandmark-design.jpg.
+2.  **Color Palette:** Use the colors derived directly from the logo image as the primary palette:
+    * **Primary Blue:** The **medium blue** shade used for the "Riverbend AI" text. Use for headlines, buttons (CTAs), key accents. (Approx Hex if needed: `#1794c2` - adjust based on actual logo color).
+    * **Secondary Green:** The **natural, medium green** shade used for the hills/landscape in the logo. Use for background elements, supporting graphics, or section dividers. (Approx Hex if needed: `#529c06` - adjust based on actual logo color).
+    * **Neutrals:** **White** (like the river path) for background and primary text. Light grey for subtle backgrounds or dividers.
+3.  **Typography:** Use clean, modern, highly readable sans-serif fonts (e.g., Inter, Lato, Open Sans).
+4.  **Layout:** Simple, straightforward, single-column layout preferred. Easy to scan and understand.
+
+**Landing Page Sections & Content Guidance:**
+
+1.  **Hero Section:**
+    * **Headline:** Clear and benefit-driven. Ideas: "Stop Drowning in AI Hype. Start Learning AI That Sticks." or "Learn AI Your Way: Personalized Training from Riverbend AI." or "Finally Understand AI – With Learning Tailored To You."
+    * **Sub-headline:** Briefly explain the core value prop. Ideas: "Riverbend AI crafts personalized learning paths based on *your* style, turning complex AI concepts into practical skills you'll actually use. Serving Gold Beach, OR and beyond."
+    * **Logo:** Place logo clearly visible here.
+    * **Primary Call-to-Action (CTA) Button:** Use Primary Blue. Text ideas: "Discover Your AI Learning Style", "Get Started Today", "Request a Free Consultation".
+
+2.  **Problem Section:** (Address the Audience's Pain Points)
+    * **Headline:** Relatable question. Ideas: "Feeling Overwhelmed by Artificial Intelligence?" or "Tried Learning AI, But It Didn't Stick?"
+    * **Body Text:** Briefly touch on common frustrations: generic courses, confusing jargon, information overload, difficulty applying knowledge, fear of falling behind. Emphasize that standard methods don't work for everyone.
+
+3.  **Solution Section:** (Introduce Riverbend AI's Unique Approach)
+    * **Headline:** Introduce the solution. Ideas: "Riverbend AI: Your Personalized Path to AI Fluency" or "Learn AI How *You* Learn Best."
+    * **Body Text:** Explain the core concept: "We believe effective AI learning is personal. Riverbend AI identifies your unique learning style (visual, auditory, hands-on, etc.) and tailors education to match. We translate complexity into clarity, ensuring you gain practical, lasting AI skills." Use the river/path metaphor subtly if desired: "We guide you on a clear path through the AI landscape."
+
+4.  **How It Works Section:** (Simple Steps)
+    * **Headline:** "Your Journey to AI Confidence in 3 Steps"
+    * **Steps (Use simple icons if possible):**
+        * 1.  **Discover:** We identify your preferred learning style.
+        * 2.  **Personalize:** We craft a custom learning plan and select resources that fit you.
+        * 3.  **Master:** Engage in guided learning focused on practical application and retention.
+
+5.  **Benefits Section:** (Focus on Outcomes)
+    * **Headline:** "What You'll Gain with Riverbend AI"
+    * **Bullet Points (Use checkmarks or simple icons):**
+        * Learn AI concepts faster and retain more.
+        * Gain confidence using relevant AI tools.
+        * Apply AI practically to achieve your goals.
+        * Save time and avoid frustrating trial-and-error.
+        * Receive personalized guidance and support.
+        * Turn AI overwhelm into AI empowerment.
+
+6.  **Final Call-to-Action (CTA) Section:**
+    * **Headline:** Reiterate the main benefit or offer. Ideas: "Ready to Make AI Stick?" or "Start Your Personalized AI Learning Journey Today."
+    * **CTA Button:** Repeat the primary CTA button from the hero section (same text and color).
+    * **(Optional):** Include a brief contact form (Name, Email, Message) or direct contact information (Email, Phone if desired).
+
+7.  **Footer:**
+    * Simple text: "© [Current Year] Riverbend AI | Gold Beach, OR 97444"
+    * (Optional) Links to Privacy Policy / Terms.
+
+**Overall Tone:** Helpful, encouraging, clear, professional, slightly leaning into the "guide" or "navigator" feel suggested by the name/logo. Avoid overly technical jargon where possible.
